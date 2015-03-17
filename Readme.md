@@ -1,7 +1,8 @@
-* [AppleCore](http://www.curseforge.com/projects/224472/) - Hunger and food mechanics API, required for Hunger Overhaul and The Spice of Life
-* [Applied Energistics 2](http://ae-mod.info/) - Material Energy systems 
-* [Aroma1997Core](http://www.curseforge.com/projects/223735/) - Core API for Aroma mods
-* [AromaBackup](http://www.curseforge.com/projects/225658/) - Simplified client side backup
+* [Agricraft](http://minecraft.curseforge.com/mc-mods/225635-agricraft)
+* [AppleCore](http://www.curseforge.com/projects/224472/)
+* [Applied Energistics 2](http://ae-mod.info/)
+* [Aroma1997Core](http://www.curseforge.com/projects/223735/)
+* [AromaBackup](http://www.curseforge.com/projects/225658/)
 * [BiblioCraft](http://www.bibliocraftmod.com/)
 * [Biomes O' Plenty](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162)
 * [Blood Magic: Alchemical Wizardry](http://www.curseforge.com/projects/224791/)
