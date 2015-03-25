@@ -19,7 +19,7 @@
 * [Compact Machines](http://www.curseforge.com/projects/224218/)
 * [ComputerCraft](http://www.curseforge.com/projects/67504/)
 * [Dense Ores](http://www.curseforge.com/projects/224942/)
-* [Ender IO](http://enderio.com/)
+* <strike>[Ender IO](http://enderio.com/)</strike>
 * [Ender Zoo](http://enderio.com/)
 * [EnderStorage](http://chickenbones.net/Pages/links.html)
 * [EnderTech](http://www.curseforge.com/projects/223428/)
@@ -40,7 +40,9 @@
 * [Mantle](http://www.curse.com/mc-mods/minecraft/mantle)
 * [Mekanism](http://aidancbrady.com/mekanism/)
 * [MekanismGenerators](http://aidancbrady.com/mekanism/)
-* [Minefactory Reloaded](http://www.curse.com/mc-mods/minecraft/minefactory-reloaded)
+* <strike>[Minefactory Reloaded](http://www.curse.com/mc-mods/minecraft/minefactory-reloaded)</strike>
+* [MineTweaker3](http://minetweaker3.powerofbytes.com/)
+* [ModTweaker2](http://www.curse.com/mc-mods/minecraft/220954)
 * [Mystcraft](http://www.curseforge.com/projects/224599/)
 * [Natura](http://www.curseforge.com/projects/74120/)
 * [NEI Addons](http://www.curseforge.com/projects/63352/)
