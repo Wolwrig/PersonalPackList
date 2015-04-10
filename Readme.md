@@ -1,21 +1,20 @@
-* [Agricraft](http://minecraft.curseforge.com/mc-mods/225635-agricraft)
-* [AppleCore](http://www.curseforge.com/projects/224472/)
-* [Applied Energistics 2](http://ae-mod.info/)
-* [Aroma1997Core](http://www.curseforge.com/projects/223735/)
-* [AromaBackup](http://www.curseforge.com/projects/225658/)
-* [BiblioCraft](http://www.bibliocraftmod.com/)
-* [Biomes O' Plenty](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162)
-* [Blood Magic: Alchemical Wizardry](http://www.curseforge.com/projects/224791/)
-* [Botania](http://www.curseforge.com/projects/225643/) 
-* [bspkrsCore](http://minecraft.curseforge.com/mc-mods/bspkrscore)
-* [BuildCraft](http://www.mod-buildcraft.com/)
-* [Carpenter's Blocks](http://www.carpentersblocks.com/)
+* [Agricraft](http://minecraft.curseforge.com/mc-mods/225635-agricraft) - More interesting farming
+* [AppleCore](http://www.curseforge.com/projects/224472/) - Food & hunger mechanics API
+* [Applied Energistics 2](http://ae-mod.info/) - Really shouldn't need to explain this one, pure awesome
+* [Aroma1997Core](http://www.curseforge.com/projects/223735/) - Core for Aroma mods
+* [AromaBackup](http://www.curseforge.com/projects/225658/) - Automatic backup
+* [BiblioCraft](http://www.bibliocraftmod.com/) - Make more pretty
+* [Biomes O' Plenty](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162) - More terrain
+* [Blood Magic: Alchemical Wizardry](http://www.curseforge.com/projects/224791/) - Blood. Magic. What else do you want?
+* [Botania](http://www.curseforge.com/projects/225643/) - Magic with mana and flowers
+* [BuildCraft](http://www.mod-buildcraft.com/) - The standard classic
+* [Carpenter's Blocks](http://www.carpentersblocks.com/) - Better blocks
 * [ChickenChunks](http://chickenbones.net/Pages/links.html)
 * [Chisel 2](http://www.curseforge.com/projects/225236/)
 * [CodeChickenCore](http://www.curseforge.com/projects/222213/)
 * [CoFH Core](http://www.curseforge.com/projects/69162/)
 * [CoFHLib](http://www.curseforge.com/projects/220333/)
-* Eval [Colored Lights Core](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445251)
+* <strike>[Colored Lights Core](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445251)</strike>
 * [Compact Machines](http://www.curseforge.com/projects/224218/)
 * [ComputerCraft](http://www.curseforge.com/projects/67504/)
 * [Dense Ores](http://www.curseforge.com/projects/224942/)
@@ -24,7 +23,7 @@
 * [EnderStorage](http://chickenbones.net/Pages/links.html)
 * [EnderTech](http://www.curseforge.com/projects/223428/)
 * [Extra Utilities](http://www.curseforge.com/projects/225561/)
-* [ExtraCells](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077)
+* [ExtraCells](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077) -Updated to here
 * [ExtraTiC](http://www.curseforge.com/projects/72728/)
 * [FastCraft](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820)
 * [Forbidden Magic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828)
@@ -42,7 +41,7 @@
 * [MekanismGenerators](http://aidancbrady.com/mekanism/)
 * <strike>[Minefactory Reloaded](http://www.curse.com/mc-mods/minecraft/minefactory-reloaded)</strike>
 * [MineTweaker3](http://minetweaker3.powerofbytes.com/)
-* [ModTweaker2](http://www.curse.com/mc-mods/minecraft/220954)
+* [ModTweaker2](http://www.curse.com/mc-mods/minecraft/220954-modtweaker)
 * [Mystcraft](http://www.curseforge.com/projects/224599/)
 * [Natura](http://www.curseforge.com/projects/74120/)
 * [NEI Addons](http://www.curseforge.com/projects/63352/)
@@ -67,10 +66,10 @@
 * [TiC Tooltips](http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips)
 * [Tinker's Construct](http://www.curse.com/mc-mods/minecraft/tinkers-construct)
 * [Translocator](http://chickenbones.net/Pages/links.html)
-* Eval [Traveller's Gear](http://www.curse.com/mc-mods/minecraft/224440)
+* <strike>[Traveller's Gear](http://www.curse.com/mc-mods/minecraft/224440)</strike>
 * [Waila](http://www.curse.com/mc-mods/minecraft/waila)
 * [Waila Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
-* Eval [Witching Gadgets](http://www.curse.com/mc-mods/minecraft/228268)
+* <strike>[Witching Gadgets](http://www.curse.com/mc-mods/minecraft/228268)</strike>
 * [WR-CBE Core](http://chickenbones.net/Pages/links.html)
 * [Ztones](http://www.curse.com/mc-mods/minecraft/224369-ztones)
 
